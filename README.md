@@ -1,4 +1,5 @@
 A simple program to calculate Coinbase transaction to determine profit and lost for US tax
+
 What it do:
 1. transform data
 2. query coin api to get exchange rate
